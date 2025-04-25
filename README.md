@@ -27,7 +27,7 @@ El análisis incluye las siguientes operaciones:
 ## Estructura del proyecto
 
 ```
-pandas_df_tlp3_nombre_apellido/
+pandas_df_tlp3_Mauricio_Heredia/
 │
 ├── actividad_df.ipynb     # Notebook principal con el análisis
 ├── Salaries.sqlite        # Base de datos SQLite con información de salarios
